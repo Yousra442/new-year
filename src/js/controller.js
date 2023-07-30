@@ -128,6 +128,6 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
   
-  console.log('hjhjhjhj');
+console.log('kjk');
 };
 init();
